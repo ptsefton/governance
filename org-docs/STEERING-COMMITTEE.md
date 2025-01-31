@@ -2,7 +2,7 @@
 
 This document lists the members of the Organization's Steering Committee.
 
-Voting members may be added once approved by the Steering Committee as described in the [charter](./CHARTER.md). By requesting to be added to this list by the chair(s) you are agreeing to abide by all Organization polices, including the [charter](./CHARTER.md), the [code of conduct](./CODE-OF-CONDUCT.md). 
+Voting members may be added once approved by the Steering Committee as described in the [charter](./CHARTER.md). By requesting to be added to this list through the chair(s) you are agreeing to abide by all Organization polices, including the [charter](./CHARTER.md), the [code of conduct](./CODE-OF-CONDUCT.md). 
 
 Members are appointed to the steering committee as individuals, not as representatives of their organization. Affiliations are listed here in line with scholarly practice, with no implication that the organization is represented by the steering committee member.
 
