@@ -39,7 +39,7 @@ In addition to the method set out in section 2.2, the membership of a Steering C
 **4.2 Unreachable Member**. If a member is unresponsive at its listed handle for more than three months the Steering Committee may vote to remove the member.
 
 **4.3 Committee  Vote**. A member may be removed by a committee vote, which may be requested by any committee member once adhering to the following process:
--  A notice for a resolution to remove a member must be given to the committee and dispersed amoung the members at least 21 days before convening a meeting
+-  A notice for a resolution to remove a member must be given to the committee and dispersed among the members at least 21 days before convening a meeting
 -  must give the member concerned a copy of the notice as soon as possible
 -  The member can give the committee a written statement and speak at the proposed meeting. The statement must be given to everyone entitled to notice of the meeting.
 -  Members shall vote on the proposed resolution  
