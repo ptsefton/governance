@@ -30,7 +30,7 @@ Members are appointed to the steering committee as individuals, not as represent
 
 
 
-\* McClellan and Sefton Have been elected by the steering committee as co-chairs
+\* McLellan and Sefton Have been elected by the steering committee as co-chairs
 
 
 
